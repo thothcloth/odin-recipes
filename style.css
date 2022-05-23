@@ -1,0 +1,8 @@
+h1, h2, ul {
+    text-align: center;
+   
+}
+h1 {
+    background-color: aqua;
+    font-size: larger;
+}
